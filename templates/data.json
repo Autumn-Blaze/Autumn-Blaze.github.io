@@ -1,10 +1,10 @@
 {
-  "blanka": {
-    "name": "blanka.png",
-    "x": 3013,
-    "y": 2808,
-    "width": 132,
-    "height": 115 
+  "Pinkie_Pie": {
+    "name": "Pinkie_Pie.png",
+    "x": 3939,
+    "y": 880,
+    "width": 80,
+    "height": 61 
 },
    "mlprussia": {
     "name": "mlprussia.png",
