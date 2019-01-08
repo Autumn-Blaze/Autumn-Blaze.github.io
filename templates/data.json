@@ -1,0 +1,16 @@
+{
+  "blanka": {
+    "name": "blanka.png",
+    "x": 3013,
+    "y": 2808,
+    "width": 132,
+    "height": 115 
+},
+   "mlprussia": {
+    "name": "mlprussia.png",
+    "x": 2275,
+    "y": 1095,
+    "width": 1024,
+    "height": 723
+   }
+}
