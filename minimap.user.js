@@ -6,9 +6,9 @@
 // @author       ConsoleBey#9737
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Autumn-Blaze/ponehs
-// @updateURL    https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/minimap.user.js
+// @homepage     https://github.com/Vasco-Pixel/mz
+// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
