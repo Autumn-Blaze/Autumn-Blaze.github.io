@@ -6,6 +6,13 @@
     "width": 80,
     "height": 61 
 },
+  "link": {
+    "name": "link.png",
+    "x": 3859,
+    "y": 943,
+    "width": 237,
+    "height": 22 
+},
    "mlprussia": {
     "name": "mlprussia.png",
     "x": 2275,
