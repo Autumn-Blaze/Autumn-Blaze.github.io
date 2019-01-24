@@ -1,4 +1,39 @@
 {
+    "Lyra": {
+    "name": "Lyra.png",
+    "x": 2060,
+    "y": 1448,
+    "width": 214,
+    "height": 43 
+},
+    "free": {
+    "name": "free.png",
+    "x": 3338,
+    "y": 446,
+    "width": 755,
+    "height": 437 
+},
+    "mane": {
+    "name": "mane.png",
+    "x": 3271,
+    "y": 883,
+    "width": 822,
+    "height": 349 
+},
+    "hangout": {
+    "name": "hangout.png",
+    "x": 2274,
+    "y": 820,
+    "width": 550,
+    "height": 273 
+},
+    "oczone": {
+    "name": "oczone.png",
+    "x": 3300,
+    "y": 1095,
+    "width": 443,
+    "height": 381 
+},
     "111": {
     "name": "111.png",
     "x": -1938,
@@ -27,13 +62,6 @@
     "width": 204,
     "height": 200 
 },  
-  "pz1": {
-    "name": "pz1.png",
-    "x": 3267,
-    "y": 802,
-    "width": 826,
-    "height": 431 
-},
    "Foe2": {
     "name": "Foe2.png",
     "x": 2275,
