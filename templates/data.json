@@ -62,8 +62,8 @@
     "width": 204,
     "height": 200 
 },  
-   "Foe2": {
-    "name": "Foe2.png",
+   "Foe": {
+    "name": "Foe.png",
     "x": 2275,
     "y": 1095,
     "width": 1024,
