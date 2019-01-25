@@ -13,8 +13,8 @@
     "width": 755,
     "height": 437 
 },
-    "mane": {
-    "name": "mane.png",
+    "mane2": {
+    "name": "mane2.png",
     "x": 3271,
     "y": 883,
     "width": 822,
@@ -27,8 +27,8 @@
     "width": 550,
     "height": 273 
 },
-    "oczone": {
-    "name": "oczone.png",
+    "oczone2": {
+    "name": "oczone2.png",
     "x": 3300,
     "y": 1095,
     "width": 443,
