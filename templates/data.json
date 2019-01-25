@@ -1,10 +1,10 @@
 {
-    "Lyra": {
-    "name": "Lyra.png",
-    "x": 2060,
-    "y": 1448,
-    "width": 214,
-    "height": 43 
+    "Lyra2": {
+    "name": "Lyra2.png",
+    "x": 1969,
+    "y": 1017,
+    "width": 306,
+    "height": 474 
 },
     "free": {
     "name": "free.png",
