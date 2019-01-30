@@ -13,12 +13,12 @@
   	  "width": 98,
   	  "height": 9 
 },
-    "2": {
-    "name": "2.png",
-    "x": -19,
-    "y": 481,
-    "width": 318,
-    "height": 178 
+    "Argentina": {
+    "name": "Argentina.png",
+    "x": -35,
+    "y": 443,
+    "width": 347,
+    "height": 246 
 },
     "Lyra2": {
     "name": "Lyra2.png",
@@ -27,12 +27,12 @@
     "width": 306,
     "height": 474 
 },
-    "free": {
-    "name": "free.png",
-    "x": 3338,
-    "y": 446,
-    "width": 755,
-    "height": 437 
+    "free2": {
+    "name": "free2.png",
+    "x": 3271,
+    "y": 213,
+    "width": 824,
+    "height": 671 
 },
     "mane": {
     "name": "mane.png",
