@@ -20,40 +20,40 @@
     "width": 347,
     "height": 246 
 },
-    "Lyra2": {
-    "name": "Lyra2.png",
+    "Lyra3": {
+    "name": "Lyra3.png",
     "x": 1969,
-    "y": 1017,
-    "width": 306,
-    "height": 474 
+    "y": 1162,
+    "width": 305,
+    "height": 327 
 },
-    "free2": {
-    "name": "free2.png",
-    "x": 3271,
+    "free": {
+    "name": "free.png",
+    "x": 3272,
     "y": 212,
     "width": 824,
-    "height": 671 
+    "height": 672 
 },
-    "mane2": {
-    "name": "mane2.png",
-    "x": 3271,
+    "mane": {
+    "name": "mane.png",
+    "x": 3272,
     "y": 883,
-    "width": 822,
+    "width": 824,
     "height": 349 
 },
     "hangout": {
     "name": "hangout.png",
-    "x": 2275,
+    "x": 2274,
     "y": 821,
-    "width": 550,
+    "width": 551,
     "height": 273 
 },
-    "oczone2": {
-    "name": "oczone2.png",
-    "x": 3300,
-    "y": 1095,
-    "width": 443,
-    "height": 381 
+    "oczone": {
+    "name": "oczone.png",
+    "x": 3299,
+    "y": 1094,
+    "width": 444,
+    "height": 382 
 },
    "LyraBonBench2": {
     "name": "LyraBonBench2.png",
@@ -69,11 +69,11 @@
     "width": 204,
     "height": 200 
 },  
-   "Foe3": {
-    "name": "Foe3.png",
-    "x": 2275,
-    "y": 1095,
-    "width": 1024,
-    "height": 723
+   "Foe": {
+    "name": "Foe.png",
+    "x": 2274,
+    "y": 1094,
+    "width": 1026,
+    "height": 725
    }
 }
