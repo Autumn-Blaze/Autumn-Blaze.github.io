@@ -1,4 +1,11 @@
 {
+     "pp": {
+   	 "name": "pp.png",
+  	  "x": -3737,
+  	  "y": -3855,
+  	  "width": 310,
+  	  "height": 310 
+},   
     "RFfoe": {
    	 "name": "RFfoe.png",
   	  "x": -2155,
