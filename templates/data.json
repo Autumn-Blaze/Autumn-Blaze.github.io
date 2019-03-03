@@ -27,13 +27,6 @@
     "width": 347,
     "height": 246 
 },
-    "Lyra3": {
-    "name": "Lyra3.png",
-    "x": 1969,
-    "y": 1162,
-    "width": 305,
-    "height": 327 
-},
     "free": {
     "name": "free.png",
     "x": 3272,
@@ -82,5 +75,12 @@
     "y": 1094,
     "width": 1026,
     "height": 725
-   }
+},
+     "Lyra3": {
+    "name": "Lyra3.png",
+    "x": 1969,
+    "y": 1162,
+    "width": 305,
+    "height": 327 
+   }    
 }
