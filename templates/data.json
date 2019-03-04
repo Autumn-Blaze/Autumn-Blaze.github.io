@@ -69,18 +69,18 @@
     "width": 204,
     "height": 200 
 },  
-   "Foe": {
-    "name": "Foe.png",
-    "x": 2274,
-    "y": 1094,
-    "width": 1026,
-    "height": 725
-},
      "Lyra2": {
     "name": "Lyra2.png",
     "x": 1969,
     "y": 1162,
     "width": 305,
     "height": 327 
-   }    
+}, 
+    "Foe": {
+    "name": "Foe.png",
+    "x": 2274,
+    "y": 1094,
+    "width": 1026,
+    "height": 725
+ }    
 }
