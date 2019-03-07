@@ -48,20 +48,13 @@
     "width": 551,
     "height": 273 
 },
-    "oczone": {
-    "name": "oczone.png",
+    "oczone2": {
+    "name": "oczone2.png",
     "x": 3299,
     "y": 1094,
     "width": 444,
     "height": 382 
 },
-    "Nightlights": {
-    "name": "Nightlights.png",
-    "x": 3334,
-    "y": 1447,
-    "width": 39,
-    "height": 29 
-},       
    "LyraBonBench2": {
     "name": "LyraBonBench2.png",
     "x": -2361,
