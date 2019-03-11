@@ -13,6 +13,13 @@
   	  "width": 2432,
   	  "height": 603 
 },   
+    "new2": {
+   	 "name": "new2.png",
+  	  "x": 2274,
+  	  "y": 212,
+  	  "width": 999,
+  	  "height": 883 
+},       
     "10": {
    	 "name": "10.png",
   	  "x": -1634,
@@ -27,15 +34,15 @@
     "width": 347,
     "height": 246 
 },
-    "free": {
-    "name": "free.png",
+    "free2": {
+    "name": "free2.png",
     "x": 3272,
     "y": 212,
     "width": 824,
     "height": 672 
 },
-    "mane": {
-    "name": "mane.png",
+    "mane2": {
+    "name": "mane2.png",
     "x": 3272,
     "y": 883,
     "width": 824,
@@ -43,13 +50,13 @@
 },
     "hangout2": {
     "name": "hangout2.png",
-    "x": 2274,
+    "x": 2275,
     "y": 821,
-    "width": 551,
+    "width": 550,
     "height": 273 
 },
-    "oczone": {
-    "name": "oczone.png",
+    "oczone2": {
+    "name": "oczone2.png",
     "x": 3299,
     "y": 1094,
     "width": 444,
@@ -69,15 +76,15 @@
     "width": 204,
     "height": 200 
 },  
-     "Lyra2": {
-    "name": "Lyra2.png",
+    "fact2": {
+    "name": "fact2.png",
     "x": 1969,
     "y": 1162,
     "width": 305,
     "height": 327 
 }, 
-    "Foe": {
-    "name": "Foe.png",
+    "Foe2": {
+    "name": "Foe2.png",
     "x": 2274,
     "y": 1094,
     "width": 1026,
