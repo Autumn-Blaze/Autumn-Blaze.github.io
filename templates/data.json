@@ -1,11 +1,4 @@
 {
-     "dj_pon_3_lbb2": {
-   	 "name": "dj_pon_3_lbb2.png",
-  	  "x": 3330,
-  	  "y": -314,
-  	  "width": 200,
-  	  "height": 294 
-},
      "pp": {
    	 "name": "pp.png",
   	  "x": -3737,
@@ -41,12 +34,12 @@
     "width": 347,
     "height": 246 
 },
-    "free2": {
-    "name": "free2.png",
-    "x": 3272,
-    "y": 212,
-    "width": 824,
-    "height": 672 
+    "free3": {
+    "name": "free3.png",
+    "x": 3271,
+    "y": -318,
+    "width": 825,
+    "height": 1233 
 },
     "mane2": {
     "name": "mane2.png",
