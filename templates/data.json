@@ -1,4 +1,11 @@
 {
+    "st1": {
+    "name": "st1.png",
+    "x": 3900,
+    "y": -128,
+   "width": 211,
+    "height": 192 
+},
      "pzc": {
    	 "name": "pzc.png",
   	  "x": 2274,
@@ -54,13 +61,6 @@
     "y": -318,
     "width": 825,
     "height": 1233 
-},
-    "st1": {
-    "name": "st1.png",
-    "x": 3900,
-    "y": -320,
-   "width": 211,
-    "height": 192 
 },
     "hangout": {
     "name": "hangout.png",
