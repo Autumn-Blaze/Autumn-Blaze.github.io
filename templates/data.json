@@ -41,19 +41,19 @@
     "width": 347,
     "height": 246 
 },
-    "free3": {
-    "name": "free3.png",
-    "x": 3271,
-    "y": -318,
-    "width": 825,
-    "height": 1233 
-},
     "mane": {
     "name": "mane.png",
     "x": 3271,
     "y": 883,
     "width": 825,
     "height": 349 
+},
+     "free3": {
+    "name": "free3.png",
+    "x": 3271,
+    "y": -318,
+    "width": 825,
+    "height": 1233 
 },
     "hangout": {
     "name": "hangout.png",
@@ -68,13 +68,6 @@
     "y": 1094,
     "width": 560,
     "height": 382 
-},
-   "LyraBonBench2": {
-    "name": "LyraBonBench2.png",
-    "x": -2361,
-    "y": -2446,
-    "width": 145,
-    "height": 80 
 },
    "KarinSultan": {
     "name": "KarinSultan.png",
