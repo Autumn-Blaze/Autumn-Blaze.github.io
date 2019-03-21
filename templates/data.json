@@ -1,11 +1,4 @@
 {
-    "st1": {
-    "name": "st1.png",
-    "x": 3881,
-    "y": -507,
-   "width": 211,
-    "height": 192 
-},
      "pzc": {
    	 "name": "pzc.png",
   	  "x": 2274,
@@ -34,13 +27,6 @@
   	  "width": 998,
   	  "height": 883 
 },       
-    "10": {
-   	 "name": "10.png",
-  	  "x": -1634,
-  	  "y": 1095,
-  	  "width": 174,
-  	  "height": 14 
-},   
     "Argentina": {
     "name": "Argentina.png",
     "x": -35,
