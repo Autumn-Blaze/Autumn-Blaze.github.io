@@ -55,13 +55,6 @@
     "width": 550,
     "height": 273 
 },
-    "oczone3": {
-    "name": "oczone3.png",
-    "x": 3299,
-    "y": 1094,
-    "width": 797,
-    "height": 382 
-},
    "KarinSultan": {
     "name": "KarinSultan.png",
     "x": 307,
@@ -82,6 +75,13 @@
     "y": 883,
     "width": 825,
     "height": 349 
+},
+    "oczone3": {
+    "name": "oczone3.png",
+    "x": 3299,
+    "y": 1094,
+    "width": 797,
+    "height": 382 
 },
     "foe2": {
     "name": "foe2.png",
