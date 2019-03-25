@@ -41,19 +41,12 @@
     "width": 347,
     "height": 246 
 },
-    "mane2": {
-    "name": "mane2.png",
-    "x": 3271,
-    "y": 883,
-    "width": 825,
-    "height": 349 
-},
-    "free2": {
-    "name": "free2.png",
+    "free": {
+    "name": "free.png",
     "x": 3271,
     "y": -315,
     "width": 825,
-    "height": 1230 
+    "height": 1198 
 },
     "hangout2": {
     "name": "hangout2.png",
@@ -83,6 +76,13 @@
     "width": 305,
     "height": 327 
 }, 
+    "mane": {
+    "name": "mane.png",
+    "x": 3271,
+    "y": 883,
+    "width": 825,
+    "height": 349 
+},
     "foe2": {
     "name": "foe2.png",
     "x": 2274,
