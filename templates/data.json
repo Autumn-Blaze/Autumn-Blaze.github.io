@@ -41,6 +41,13 @@
     "width": 347,
     "height": 246 
 },
+    "11": {
+    "name": "11.png",
+    "x": 3272,
+    "y": 213,
+    "width": 305,
+    "height": 401 
+},      
     "free": {
     "name": "free.png",
     "x": 3271,
@@ -83,13 +90,6 @@
     "width": 797,
     "height": 382 
 },
-    "11": {
-    "name": "11.png",
-    "x": 3272,
-    "y": 213,
-    "width": 305,
-    "height": 401 
-},    
     "foe2": {
     "name": "foe2.png",
     "x": 2274,
