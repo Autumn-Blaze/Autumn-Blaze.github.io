@@ -48,13 +48,6 @@
     "width": 825,
     "height": 1198 
 },
-    "11": {
-    "name": "11.png",
-    "x": 3272,
-    "y": 213,
-    "width": 305,
-    "height": 401 
-},     
     "hangout2": {
     "name": "hangout2.png",
     "x": 2275,
@@ -90,6 +83,13 @@
     "width": 797,
     "height": 382 
 },
+    "11": {
+    "name": "11.png",
+    "x": 3272,
+    "y": 213,
+    "width": 305,
+    "height": 401 
+},    
     "foe2": {
     "name": "foe2.png",
     "x": 2274,
