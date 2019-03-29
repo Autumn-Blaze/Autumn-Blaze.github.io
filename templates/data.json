@@ -13,13 +13,6 @@
   	  "width": 201,
   	  "height": 132 
 },
-     "pp": {
-   	 "name": "pp.png",
-  	  "x": -3737,
-  	  "y": -3855,
-  	  "width": 310,
-  	  "height": 310 
-},
     "RFfoe": {
    	 "name": "RFfoe.png",
   	  "x": -2155,
@@ -48,13 +41,6 @@
     "width": 825,
     "height": 1198 
 },
-   "11": {
-    "name": "11.png",
-    "x": 3272,
-    "y": 213,
-    "width": 305,
-    "height": 401 
-},     
     "hangout2": {
     "name": "hangout2.png",
     "x": 2275,
