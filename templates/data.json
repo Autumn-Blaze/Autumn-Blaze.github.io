@@ -1,4 +1,11 @@
 {
+     "RainbowFactory": {
+   	 "name": "RainbowFactory.png",
+  	  "x": 3220,
+  	  "y": 669,
+  	  "width": 250,
+  	  "height": 186 
+},
      "st11": {
    	 "name": "st11.png",
   	  "x": 3881,
