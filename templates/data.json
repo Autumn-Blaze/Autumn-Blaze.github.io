@@ -1,18 +1,4 @@
 {
-     "st11": {
-   	 "name": "st11.png",
-  	  "x": 3881,
-  	  "y": -572,
-  	  "width": 211,
-  	  "height": 192 
-},
-     "pzc2": {
-   	 "name": "pzc2.png",
-  	  "x": 2274,
-  	  "y": 80,
-  	  "width": 201,
-  	  "height": 132 
-},
     "RFfoeMLP": {
    	 "name": "RFfoeMLP.png",
   	  "x": -2155,
@@ -20,33 +6,12 @@
   	  "width": 2432,
   	  "height": 603 
 },   
-    "new2": {
-   	 "name": "new2.png",
-  	  "x": 2274,
-  	  "y": 212,
-  	  "width": 998,
-  	  "height": 883 
-},       
     "Argentina": {
     "name": "Argentina.png",
     "x": 325,
     "y": 257,
     "width": 347,
     "height": 246 
-},
-    "free2": {
-    "name": "free2.png",
-    "x": 3271,
-    "y": -315,
-    "width": 825,
-    "height": 1198 
-},
-    "hangout2": {
-    "name": "hangout2.png",
-    "x": 2275,
-    "y": 821,
-    "width": 550,
-    "height": 273 
 },
    "KarinSultan": {
     "name": "KarinSultan.png",
@@ -55,32 +20,137 @@
     "width": 204,
     "height": 200 
 },  
-    "fact2": {
-    "name": "fact2.png",
-    "x": 1969,
-    "y": 1162,
-    "width": 305,
-    "height": 327 
-}, 
-    "mane": {
-    "name": "mane.png",
-    "x": 3271,
-    "y": 883,
-    "width": 825,
-    "height": 349 
+    "F6": {
+    "name": "F6.png",
+    "x": 3584,
+    "y": -1024,
+    "width": 512,
+    "height": 512 
 },
-    "oczone2": {
-    "name": "oczone2.png",
-    "x": 3299,
-    "y": 1094,
-    "width": 797,
-    "height": 382 
+    "E7": {
+    "name": "E7.png",
+    "x": 3072,
+    "y": -512,
+    "width": 512,
+    "height": 512 
 },
-    "foe2": {
-    "name": "foe2.png",
-    "x": 2274,
-    "y": 1094,
-    "width": 1026,
-    "height": 725
- }    
+    "F7": {
+    "name": "F7.png",
+    "x": 3584,
+    "y": -512,
+    "width": 512,
+    "height": 512 
+},
+    "C8": {
+    "name": "C8.png",
+    "x": 2048,
+    "y": 0,
+    "width": 512,
+    "height": 512 
+},
+    "D8": {
+    "name": "D8.png",
+    "x": 2560,
+    "y": 0,
+    "width": 512,
+    "height": 512 
+},
+    "E8": {
+    "name": "E8.png",
+    "x": 3072,
+    "y": 0,
+    "width": 512,
+    "height": 512 
+},
+    "F8": {
+    "name": "F8.png",
+    "x": 3584,
+    "y": 0,
+    "width": 512,
+    "height": 512 
+},
+    "C9": {
+    "name": "C9.png",
+    "x": 2048,
+    "y": 512,
+    "width": 512,
+    "height": 512 
+},     
+    "D9": {
+    "name": "D9.png",
+    "x": 2560,
+    "y": 512,
+    "width": 512,
+    "height": 512 
+},     
+    "E9": {
+    "name": "E9.png",
+    "x": 3072,
+    "y": 512,
+    "width": 512,
+    "height": 512 
+},     
+    "F9": {
+    "name": "F9.png",
+    "x": 3584,
+    "y": 512,
+    "width": 512,
+    "height": 512 
+},     
+    "BA": {
+    "name": "BA.png",
+    "x": 1536,
+    "y": 1024,
+    "width": 512,
+    "height": 512 
+},     
+    "CA": {
+    "name": "CA.png",
+    "x": 2048,
+    "y": 1024,
+    "width": 512,
+    "height": 512 
+},     
+    "DA": {
+    "name": "DA.png",
+    "x": 2560,
+    "y": 1024,
+    "width": 512,
+    "height": 512 
+},     
+    "EA": {
+    "name": "EA.png",
+    "x": 3072,
+    "y": 1024,
+    "width": 512,
+    "height": 512 
+},     
+    "FA": {
+    "name": "FA.png",
+    "x": 3584,
+    "y": 1024,
+    "width": 512,
+    "height": 512 
+},     
+    "CB": {
+    "name": "CB.png",
+    "x": 2048,
+    "y": 1536,
+    "width": 512,
+    "height": 512 
+},     
+    "DB": {
+    "name": "DB.png",
+    "x": 2560,
+    "y": 1536,
+    "width": 512,
+    "height": 512 
+},     
+    "EB": {
+    "name": "EB.png",
+    "x": 3072,
+    "y": 1536,
+    "width": 512,
+    "height": 512 
+}     
 }
