@@ -1,6 +1,6 @@
 {
-    "RFfoeMLP": {
-   	 "name": "RFfoeMLP.png",
+    "RFfoeMLP2": {
+   	 "name": "RFfoeMLP2.png",
   	  "x": -2155,
   	  "y": -2062,
   	  "width": 2432,
@@ -152,5 +152,12 @@
     "y": 1536,
     "width": 512,
     "height": 512 
+}, 
+    "foe1": {
+    "name": "EB.png",
+    "x": 2274,
+    "y": 1094,
+    "width": 1026,
+    "height": 725 
 }     
 }
