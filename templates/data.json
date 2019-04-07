@@ -28,43 +28,43 @@
     "width": 204,
     "height": 200 
 },  
-    "F6": {
-    "name": "F6.png",
+    "F6_3": {
+    "name": "F6_3.png",
     "x": 3584,
     "y": -1024,
     "width": 512,
     "height": 512 
 },
-    "E7": {
-    "name": "E7.png",
+    "E7_3": {
+    "name": "E7_3.png",
     "x": 3072,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "F7": {
-    "name": "F7.png",
+    "F7_3": {
+    "name": "F7_3.png",
     "x": 3584,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "C8": {
-    "name": "C8.png",
+    "C8_3": {
+    "name": "C8_3.png",
     "x": 2048,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "D8": {
-    "name": "D8.png",
+    "D8_3": {
+    "name": "D8_3.png",
     "x": 2560,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "E8_2": {
-    "name": "E8_2.png",
+    "E8_3": {
+    "name": "E8_3.png",
     "x": 3072,
     "y": 0,
     "width": 512,
@@ -77,22 +77,22 @@
     "width": 512,
     "height": 512 
 },
-    "C9": {
-    "name": "C9.png",
+    "C9_3": {
+    "name": "C9_3.png",
     "x": 2048,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "D9_1": {
-    "name": "D9_1.png",
+    "D9_3": {
+    "name": "D9_3.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_2": {
-    "name": "E9_2.png",
+    "E9_3": {
+    "name": "E9_3.png",
     "x": 3072,
     "y": 512,
     "width": 512,
@@ -105,15 +105,15 @@
     "width": 512,
     "height": 512 
 },     
-    "BA": {
-    "name": "BA.png",
+    "BA_3": {
+    "name": "BA_3.png",
     "x": 1536,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "CA": {
-    "name": "CA.png",
+    "CA_3": {
+    "name": "CA_3.png",
     "x": 2048,
     "y": 1024,
     "width": 512,
@@ -126,8 +126,8 @@
     "width": 512,
     "height": 512 
 },     
-    "EA_2": {
-    "name": "EA_2.png",
+    "EA_3": {
+    "name": "EA_3.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
@@ -140,8 +140,8 @@
     "width": 512,
     "height": 512 
 },     
-    "CB": {
-    "name": "CB.png",
+    "CB_3": {
+    "name": "CB_3.png",
     "x": 2048,
     "y": 1536,
     "width": 512,
