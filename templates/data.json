@@ -1,4 +1,12 @@
 {
+   "eoi": {
+    "name": "eoi.png",
+    "x": 821,
+    "y": 3020,
+    "width": 140,
+    "height": 117
+},
+    
     "RFfoeMLP": {
    	 "name": "RFfoeMLP.png",
   	  "x": -2155,
