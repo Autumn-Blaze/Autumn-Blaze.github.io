@@ -1,4 +1,12 @@
 {
+   "azrm": {
+    "name": "azrm.png",
+    "x": 1719,
+    "y": 1400,
+    "width": 100,
+    "height": 114 
+},
+   
    "eoi": {
     "name": "eoi.png",
     "x": 821,
