@@ -1,4 +1,11 @@
 {
+  "aaj": {
+    "name": "aaj.png",
+    "x": 701,
+    "y": -224,
+    "width": 440,
+    "height": 384 
+}, 
    "azrm": {
     "name": "azrm.png",
     "x": 1719,
@@ -6,7 +13,6 @@
     "width": 100,
     "height": 114 
 },
-   
    "eoi": {
     "name": "eoi.png",
     "x": 821,
@@ -14,7 +20,6 @@
     "width": 140,
     "height": 117
 },
-    
     "RFfoeMLP": {
    	 "name": "RFfoeMLP.png",
   	  "x": -2155,
