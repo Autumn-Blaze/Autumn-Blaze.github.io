@@ -1,4 +1,32 @@
 {
+  "qr1": {
+    "name": "qr1.png",
+    "x": -187,
+    "y": -3636,
+    "width": 51,
+    "height": 51 
+}, 
+  "qr2": {
+    "name": "qr2.png",
+    "x": -4029,
+    "y": 1265,
+    "width": 51,
+    "height": 51 
+}, 
+  "qr3": {
+    "name": "qr3.png",
+    "x": -2794,
+    "y": -2459,
+    "width": 51,
+    "height": 51 
+}, 
+  "qr4": {
+    "name": "qr4.png",
+    "x": -1446,
+    "y": 2512,
+    "width": 51,
+    "height": 51 
+}, 
   "aaj": {
     "name": "aaj.png",
     "x": 701,
