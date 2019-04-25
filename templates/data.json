@@ -48,12 +48,12 @@
     "width": 140,
     "height": 117
 },
-    "RFfoeMLP": {
-   	 "name": "RFfoeMLP.png",
-  	  "x": -2155,
-  	  "y": -2062,
-  	  "width": 2432,
-  	  "height": 603 
+    "RFfoeMLP1": {
+   	 "name": "RFfoeMLP1.png",
+  	  "x": -2156,
+  	  "y": -2063,
+  	  "width": 2434,
+  	  "height": 605 
 },   
     "Argentina": {
     "name": "Argentina.png",
@@ -202,11 +202,11 @@
     "width": 512,
     "height": 512 
 }, 
-   "Tia3": {
-    "name": "Tia3.png",
-    "x": 2886,
+   "Tia4": {
+    "name": "Tia4.png",
+    "x": 2885,
     "y": -666,
-    "width": 273,
+    "width": 275,
     "height": 183 
 } 
 }
