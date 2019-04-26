@@ -1,32 +1,4 @@
 {
-  "qr1": {
-    "name": "qr1.png",
-    "x": -177,
-    "y": -3626,
-    "width": 51,
-    "height": 51 
-}, 
-  "qr2": {
-    "name": "qr2.png",
-    "x": -4004,
-    "y": 1275,
-    "width": 51,
-    "height": 51 
-}, 
-  "qr3": {
-    "name": "qr3.png",
-    "x": -2850,
-    "y": -2459,
-    "width": 51,
-    "height": 51 
-}, 
-  "qr4": {
-    "name": "qr4.png",
-    "x": -1420,
-    "y": 2517,
-    "width": 51,
-    "height": 51 
-}, 
   "aaj": {
     "name": "aaj.png",
     "x": 701,
@@ -69,120 +41,141 @@
     "width": 204,
     "height": 200 
 },  
-    "F6_3": {
-    "name": "F6_3.png",
+   "D6_6": {
+    "name": "D6_6.png",
+    "x": 2560,
+    "y": -1024,
+    "width": 512,
+    "height": 512 
+},
+   "E6_6": {
+    "name": "E6_6.png",
+    "x": 3072,
+    "y": -1024,
+    "width": 512,
+    "height": 512 
+},
+   "D7_6": {
+    "name": "D7_6.png",
+    "x": 3072,
+    "y": -512,
+    "width": 512,
+    "height": 512 
+},
+    "F6_6": {
+    "name": "F6_6.png",
     "x": 3584,
     "y": -1024,
     "width": 512,
     "height": 512 
 },
-    "E7_4": {
-    "name": "E7_4.png",
+    "E7_6": {
+    "name": "E7_6.png",
     "x": 3072,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "F7_3": {
-    "name": "F7_3.png",
+    "F7_6": {
+    "name": "F7_6.png",
     "x": 3584,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "C8_3": {
-    "name": "C8_3.png",
+    "C8_6": {
+    "name": "C8_6.png",
     "x": 2048,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "D8_3": {
-    "name": "D8_3.png",
+    "D8_6": {
+    "name": "D8_6.png",
     "x": 2560,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "E8_4": {
-    "name": "E8_4.png",
+    "E8_6": {
+    "name": "E8_6.png",
     "x": 3072,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "F8": {
-    "name": "F8.png",
+    "F8_6": {
+    "name": "F8_6.png",
     "x": 3584,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "C9_5": {
-    "name": "C9_5.png",
+    "C9_6": {
+    "name": "C9_6.png",
     "x": 2048,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "D9_5": {
-    "name": "D9_5.png",
+    "D9_6": {
+    "name": "D9_6.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_5": {
-    "name": "E9_5.png",
+    "E9_6": {
+    "name": "E9_6.png",
     "x": 3072,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "F9_2": {
-    "name": "F9_2.png",
+    "F9_6": {
+    "name": "F9_6.png",
     "x": 3584,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "BA_3": {
-    "name": "BA_3.png",
+    "BA_6": {
+    "name": "BA_6.png",
     "x": 1536,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "CA_3": {
-    "name": "CA_3.png",
+    "CA_6": {
+    "name": "CA_6.png",
     "x": 2048,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "DA_2": {
-    "name": "DA_2.png",
+    "DA_6": {
+    "name": "DA_6.png",
     "x": 2560,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "EA_5": {
-    "name": "EA_5.png",
+    "EA_6": {
+    "name": "EA_6.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "FA_5": {
-    "name": "FA_5.png",
+    "FA_6": {
+    "name": "FA_6.png",
     "x": 3584,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "CB_3": {
-    "name": "CB_3.png",
+    "CB_6": {
+    "name": "CB_6.png",
     "x": 2048,
     "y": 1536,
     "width": 512,
@@ -201,12 +194,5 @@
     "y": 1536,
     "width": 512,
     "height": 512 
-}, 
-   "Tia4": {
-    "name": "Tia4.png",
-    "x": 2885,
-    "y": -666,
-    "width": 275,
-    "height": 183 
-} 
+}
 }
