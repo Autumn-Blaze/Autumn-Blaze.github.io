@@ -118,15 +118,15 @@
     "width": 512,
     "height": 512 
 },     
-    "D9_6": {
-    "name": "D9_6.png",
+    "D9_11": {
+    "name": "D9_11.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_10": {
-    "name": "E9_10.png",
+    "E9_11": {
+    "name": "E9_11.png",
     "x": 3072,
     "y": 512,
     "width": 512,
@@ -153,15 +153,15 @@
     "width": 512,
     "height": 512 
 },     
-    "DA_9": {
-    "name": "DA_9.png",
+    "DA_11": {
+    "name": "DA_11.png",
     "x": 2560,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "EA_6": {
-    "name": "EA_6.png",
+    "EA_11": {
+    "name": "EA_11.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
