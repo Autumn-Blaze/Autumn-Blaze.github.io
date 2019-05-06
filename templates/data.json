@@ -1,4 +1,11 @@
 {
+   "PinkPixel": {
+    "name": "PinkPixel.png",
+    "x": 2636,
+    "y": -700,
+    "width": 250,
+    "height": 250 
+}, 
   "aaj": {
     "name": "aaj.png",
     "x": 701,
