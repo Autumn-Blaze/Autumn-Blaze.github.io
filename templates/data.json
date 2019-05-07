@@ -1,11 +1,4 @@
 {
-   "PinkPixel": {
-    "name": "PinkPixel.png",
-    "x": 2636,
-    "y": -700,
-    "width": 250,
-    "height": 250 
-}, 
   "aaj": {
     "name": "aaj.png",
     "x": 701,
@@ -48,22 +41,22 @@
     "width": 204,
     "height": 200 
 },  
-   "D6_6": {
-    "name": "D6_6.png",
+   "D6_1": {
+    "name": "D6_1.png",
     "x": 2560,
     "y": -1024,
     "width": 512,
     "height": 512 
 },
-   "E6_8": {
-    "name": "E6_8.png",
+   "E6_1": {
+    "name": "E6_1.png",
     "x": 3072,
     "y": -1024,
     "width": 512,
     "height": 512 
 },
-   "D7_10": {
-    "name": "D7_10.png",
+   "D7_1": {
+    "name": "D7_1.png",
     "x": 2560,
     "y": -512,
     "width": 512,
@@ -76,15 +69,15 @@
     "width": 512,
     "height": 512 
 },
-    "E7_10": {
-    "name": "E7_10.png",
+    "E7_1": {
+    "name": "E7_1.png",
     "x": 3072,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "F7_6": {
-    "name": "F7_6.png",
+    "F7_1": {
+    "name": "F7_1.png",
     "x": 3584,
     "y": -512,
     "width": 512,
@@ -97,22 +90,22 @@
     "width": 512,
     "height": 512 
 },
-    "D8_10": {
-    "name": "D8_10.png",
+    "D8_1": {
+    "name": "D8_1.png",
     "x": 2560,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "E8_10": {
-    "name": "E8_10.png",
+    "E8_1": {
+    "name": "E8_1.png",
     "x": 3072,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "F8_6": {
-    "name": "F8_6.png",
+    "F8_1": {
+    "name": "F8_1.png",
     "x": 3584,
     "y": 0,
     "width": 512,
@@ -125,22 +118,22 @@
     "width": 512,
     "height": 512 
 },     
-    "D9_11": {
-    "name": "D9_11.png",
+    "D9_1": {
+    "name": "D9_1.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_11": {
-    "name": "E9_11.png",
+    "E9_1": {
+    "name": "E9_1.png",
     "x": 3072,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "F9_6": {
-    "name": "F9_6.png",
+    "F9_1": {
+    "name": "F9_1.png",
     "x": 3584,
     "y": 512,
     "width": 512,
@@ -160,22 +153,22 @@
     "width": 512,
     "height": 512 
 },     
-    "DA_12": {
-    "name": "DA_12.png",
+    "DA_1": {
+    "name": "DA_1.png",
     "x": 2560,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "EA_11": {
-    "name": "EA_11.png",
+    "EA_1": {
+    "name": "EA_1.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "FA_6": {
-    "name": "FA_6.png",
+    "FA_1": {
+    "name": "FA_1.png",
     "x": 3584,
     "y": 1024,
     "width": 512,
