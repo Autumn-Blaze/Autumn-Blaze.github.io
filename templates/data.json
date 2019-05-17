@@ -55,8 +55,8 @@
     "width": 512,
     "height": 512 
 },
-   "D7_1": {
-    "name": "D7_1.png",
+   "D7_4": {
+    "name": "D7_4.png",
     "x": 2560,
     "y": -512,
     "width": 512,
@@ -69,8 +69,8 @@
     "width": 512,
     "height": 512 
 },
-    "E7_1": {
-    "name": "E7_1.png",
+    "E7_4": {
+    "name": "E7_4.png",
     "x": 3072,
     "y": -512,
     "width": 512,
@@ -97,15 +97,15 @@
     "width": 512,
     "height": 512 
 },
-    "E8_2": {
-    "name": "E8_2.png",
+    "E8_4": {
+    "name": "E8_4.png",
     "x": 3072,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "F8_1": {
-    "name": "F8_1.png",
+    "F8_4": {
+    "name": "F8_4.png",
     "x": 3584,
     "y": 0,
     "width": 512,
@@ -118,57 +118,57 @@
     "width": 512,
     "height": 512 
 },     
-    "D9_1": {
-    "name": "D9_1.png",
+    "D9_4": {
+    "name": "D9_4.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_5": {
-    "name": "E9_5.png",
+    "E9_4": {
+    "name": "E9_4.png",
     "x": 3072,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "F9_5": {
-    "name": "F9_5.png",
+    "F9_4": {
+    "name": "F9_4.png",
     "x": 3584,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "BA_6": {
-    "name": "BA_6.png",
+    "BA_4": {
+    "name": "BA_4.png",
     "x": 1536,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "CA_6": {
-    "name": "CA_6.png",
+    "CA_4": {
+    "name": "CA_4.png",
     "x": 2048,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "DA_1": {
-    "name": "DA_1.png",
+    "DA_4": {
+    "name": "DA_4.png",
     "x": 2560,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "EA_1": {
-    "name": "EA_1.png",
+    "EA_4": {
+    "name": "EA_4.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "FA_1": {
-    "name": "FA_1.png",
+    "FA_4": {
+    "name": "FA_4.png",
     "x": 3584,
     "y": 1024,
     "width": 512,
