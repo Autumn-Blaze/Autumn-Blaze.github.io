@@ -48,8 +48,8 @@
     "width": 512,
     "height": 512 
 },
-   "E6_1": {
-    "name": "E6_1.png",
+   "E6_0": {
+    "name": "E6_0.png",
     "x": 3072,
     "y": -1024,
     "width": 512,
@@ -62,29 +62,29 @@
     "width": 512,
     "height": 512 
 },
-    "F6_6": {
-    "name": "F6_6.png",
+    "F6_0": {
+    "name": "F6_0.png",
     "x": 3584,
     "y": -1024,
     "width": 512,
     "height": 512 
 },
-    "E7_4": {
-    "name": "E7_4.png",
+    "E7_0": {
+    "name": "E7_0.png",
     "x": 3072,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "F7_1": {
-    "name": "F7_1.png",
+    "F7_0": {
+    "name": "F7_0.png",
     "x": 3584,
     "y": -512,
     "width": 512,
     "height": 512 
 },
-    "C8_6": {
-    "name": "C8_6.png",
+    "C8_0": {
+    "name": "C8_0.png",
     "x": 2048,
     "y": 0,
     "width": 512,
@@ -97,15 +97,15 @@
     "width": 512,
     "height": 512 
 },
-    "E8_4": {
-    "name": "E8_4.png",
+    "E8_0": {
+    "name": "E8_0.png",
     "x": 3072,
     "y": 0,
     "width": 512,
     "height": 512 
 },
-    "F8_4": {
-    "name": "F8_4.png",
+    "F8_0": {
+    "name": "F8_0.png",
     "x": 3584,
     "y": 0,
     "width": 512,
@@ -118,22 +118,22 @@
     "width": 512,
     "height": 512 
 },     
-    "D9_4": {
-    "name": "D9_4.png",
+    "D9_0": {
+    "name": "D9_0.png",
     "x": 2560,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "E9_4": {
-    "name": "E9_4.png",
+    "E9_0": {
+    "name": "E9_0.png",
     "x": 3072,
     "y": 512,
     "width": 512,
     "height": 512 
 },     
-    "F9_4": {
-    "name": "F9_4.png",
+    "F9_0": {
+    "name": "F9_0.png",
     "x": 3584,
     "y": 512,
     "width": 512,
@@ -153,22 +153,22 @@
     "width": 512,
     "height": 512 
 },     
-    "DA_4": {
-    "name": "DA_4.png",
+    "DA_0": {
+    "name": "DA_0.png",
     "x": 2560,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "EA_4": {
-    "name": "EA_4.png",
+    "EA_0": {
+    "name": "EA_0.png",
     "x": 3072,
     "y": 1024,
     "width": 512,
     "height": 512 
 },     
-    "FA_4": {
-    "name": "FA_4.png",
+    "FA_0": {
+    "name": "FA_0.png",
     "x": 3584,
     "y": 1024,
     "width": 512,
