@@ -1,4 +1,11 @@
 {
+   "flaty": {
+    "name": "flaty.png",
+    "x": -1404,
+    "y": -2385,
+    "width": 51,
+    "height": 50 
+}, 
    "MLPP": {
     "name": "MLPP.png",
     "x": 1024,
