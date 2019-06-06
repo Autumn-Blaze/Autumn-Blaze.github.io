@@ -13,6 +13,13 @@
     "width": 3072,
     "height": 3072 
 }, 
+  "fox": {
+    "name": "fox.png",
+    "x": 3005,
+    "y": -450,
+    "width": 164,
+    "height": 303 
+}, 
   "ysnp_2": {
     "name": "ysnp_2.png",
     "x": -2020,
