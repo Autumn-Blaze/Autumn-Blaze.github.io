@@ -6,19 +6,12 @@
     "width": 51,
     "height": 50 
 }, 
-   "MLPP2": {
-    "name": "MLPP2.png",
+   "MLPP3": {
+    "name": "MLPP3.png",
     "x": 1024,
     "y": -1024,
     "width": 3072,
     "height": 3072 
-}, 
-  "fox2": {
-    "name": "fox2.png",
-    "x": 3007,
-    "y": -448,
-    "width": 161,
-    "height": 300 
 }, 
   "ysnp_2": {
     "name": "ysnp_2.png",
