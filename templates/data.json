@@ -1,4 +1,11 @@
 {
+   "VoidTalk": {
+    "name": "VoidTalk.png",
+    "x": -2333,
+    "y": -2169,
+    "width": 303,
+    "height": 85 
+}, 
    "flaty": {
     "name": "flaty.png",
     "x": -1404,
