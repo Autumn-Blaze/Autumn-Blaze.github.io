@@ -1,18 +1,4 @@
 {
-   "VoidTalk": {
-    "name": "VoidTalk.png",
-    "x": -2333,
-    "y": -2169,
-    "width": 303,
-    "height": 85 
-}, 
-   "flaty": {
-    "name": "flaty.png",
-    "x": -1404,
-    "y": -2385,
-    "width": 51,
-    "height": 50 
-}, 
    "MLPP6": {
     "name": "MLPP6.png",
     "x": 1024,
@@ -20,13 +6,6 @@
     "width": 3072,
     "height": 3584 
 }, 
-  "ysnp_3": {
-    "name": "ysnp_3.png",
-    "x": -2020,
-    "y": -2144,
-    "width": 88,
-    "height": 78 
-},  
   "aaj": {
     "name": "aaj.png",
     "x": 701,
@@ -41,12 +20,12 @@
     "width": 140,
     "height": 117
 },
-    "RFfoeMLP1": {
-   	 "name": "RFfoeMLP1.png",
-  	  "x": -2156,
-  	  "y": -2063,
-  	  "width": 2434,
-  	  "height": 605 
+    "P1": {
+     "name": "P1.png",
+  	  "x": -2645,
+  	  "y": -2639,
+  	  "width": 3591,
+  	  "height": 1560 
 },   
     "Argentina": {
     "name": "Argentina.png",
