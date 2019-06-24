@@ -1,44 +1,30 @@
 {
-   "MLPP6": {
-    "name": "MLPP6.png",
-    "x": 1024,
-    "y": -1536,
-    "width": 3072,
-    "height": 3584 
+"S1": { 
+"name": "S1.png", 
+"x": -4096, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096 
 }, 
-  "aaj": {
-    "name": "aaj.png",
-    "x": 701,
-    "y": -224,
-    "width": 440,
-    "height": 384 
+"S2": { 
+"name": "S2.png", 
+"x": 0, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096 
 }, 
-    "eoi": {
-    "name": "eoi.png",
-    "x": 821,
-    "y": 3020,
-    "width": 140,
-    "height": 117
-},
-    "P22": {
-     "name": "P22.png",
-  	  "x": -2645,
-  	  "y": -2639,
-  	  "width": 3591,
-  	  "height": 1560 
-},   
-    "Argentina": {
-    "name": "Argentina.png",
-    "x": 325,
-    "y": 257,
-    "width": 347,
-    "height": 246 
-},
-   "KarinSultan": {
-    "name": "KarinSultan.png",
-    "x": 307,
-    "y": -904,
-    "width": 204,
-    "height": 200 
- }   
+"S3": { 
+"name": "S3.png", 
+"x": -4096, 
+"y": 0, 
+"width": 4096, 
+"height": 4096 
+}, 
+"S4": { 
+"name": "S4.png", 
+"x": 0, 
+"y": 0, 
+"width": 4096, 
+"height": 4096 
+} 
 }
