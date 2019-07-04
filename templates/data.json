@@ -1,27 +1,27 @@
 {
-"S1": { 
-"name": "S1.png", 
+"S1_1": { 
+"name": "S1_1.png", 
 "x": -4096, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
 }, 
-"S2_0": { 
-"name": "S2_0.png", 
+"S2_1": { 
+"name": "S2_1.png", 
 "x": 0, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
 }, 
-"S3": { 
-"name": "S3.png", 
+"S3_1": { 
+"name": "S3_1.png", 
 "x": -4096, 
 "y": 0, 
 "width": 4096, 
 "height": 4096 
 }, 
-"S4_0": { 
-"name": "S4_0.png", 
+"S4_1": { 
+"name": "S4_1.png", 
 "x": 0, 
 "y": 0, 
 "width": 4096, 
