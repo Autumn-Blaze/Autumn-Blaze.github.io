@@ -1,17 +1,20 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.2.4
-// @description  VP Minimap Zone
-// @author       ConsoleBey#9737
+// @version      1.2.5
+// @description  My Little Pony Pixel (MLP Pixel) Minimap for PixelZone.io
+// @author       ConsoleBey, Endless Night and MLP Pixel
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/Vasco-Pixel/mz
-// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
+// @homepage     https://github.com/Autumn-Blaze/ponehs
+// @updateURL    https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/MLP_Pixel_minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/MLP_Pixel_minimap.user.js
 // @grant        none
 // ==/UserScript==
-
+//
+// To the glory of Luna and the New Lunar Republic!
+// Improved by the Endless Night and MLP Pixel.
+//
 Number.prototype.between = function(a, b) {
   var min = Math.min.apply(Math, [a, b]),
     max = Math.max.apply(Math, [a, b]);
