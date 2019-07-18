@@ -26,5 +26,13 @@
 "y": 0, 
 "width": 4096, 
 "height": 4096 
-} 
+},
+"grid": { 
+"name": "grid.png", 
+"x": 3271, 
+"y": -377, 
+"width": 825, 
+"height": 991, 
+"type": "grid" 
+}  
 }
