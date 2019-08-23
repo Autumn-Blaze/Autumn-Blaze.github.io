@@ -1,13 +1,13 @@
 {
-"S1_9": { 
-"name": "S1_9.png", 
+"S1": { 
+"name": "S1.png", 
 "x": -4096, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
 }, 
-"S2_9": { 
-"name": "S2_9.png", 
+"S2": { 
+"name": "S2.png", 
 "x": 0, 
 "y": -4096, 
 "width": 4096, 
@@ -20,19 +20,19 @@
 "width": 4096, 
 "height": 4096 
 }, 
-"S4_77": { 
-"name": "S4_77.png", 
+"S4": { 
+"name": "S4.png", 
 "x": 0, 
 "y": 0, 
 "width": 4096, 
 "height": 4096 
 },
-"grid_9": { 
-"name": "grid_9.png", 
-"x": 3271, 
-"y": -377, 
-"width": 825, 
-"height": 991, 
+"grid": { 
+"name": "grid.png", 
+"x": -4096, 
+"y": -4096, 
+"width": 8192, 
+"height": 8192, 
 "type": "grid" 
 }  
 }
