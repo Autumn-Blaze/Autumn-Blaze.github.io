@@ -1,13 +1,13 @@
 {
-"Sector 1": { 
-"name": "Sector 1.png", 
+"Sector_1": { 
+"name": "Sector_1.png", 
 "x": -4096, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
 },
-"Sector 2": { 
-"name": "Sector 2.png", 
+"Sector_2": { 
+"name": "Sector_2.png", 
 "x": 0, 
 "y": -4096, 
 "width": 4096, 
@@ -20,39 +20,39 @@
 "width": 4096, 
 "height": 4096 
 },
-"Sector 4 1": { 
-"name": "Sector 4.png", 
+"Sector_4": { 
+"name": "Sector_4.png", 
 "x": 0, 
 "y": 0, 
 "width": 4096, 
 "height": 4096 
 },
-"Grid 1": { 
-"name": "Grid 1.png", 
+"Grid_1": { 
+"name": "Grid_1.png", 
 "x": -4096, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096, 
 "type": "grid" 
 },
-"Grid 2": { 
-"name": "Grid 2.png", 
+"Grid_2": { 
+"name": "Grid_2.png", 
 "x": 0, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096, 
 "type": "grid" 
 },
-"Grid 3": { 
-"name": "Grid 3.png", 
+"Grid_3": { 
+"name": "Grid_3.png", 
 "x": -4096, 
 "y": 0, 
 "width": 4096, 
 "height": 4096, 
 "type": "grid" 
 },
-"Grid 4": { 
-"name": "Grid 4.png", 
+"Grid_4": { 
+"name": "Grid_4.png", 
 "x": 0, 
 "y": 0, 
 "width": 4096, 
