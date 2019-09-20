@@ -1,38 +1,62 @@
 {
-"S1_55": { 
-"name": "S1_55.png", 
+"Sector 1": { 
+"name": "Sector 1.png", 
 "x": -4096, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
-}, 
-"S2_55": { 
-"name": "S2_55.png", 
+},
+"Sector 2": { 
+"name": "Sector 2.png", 
 "x": 0, 
 "y": -4096, 
 "width": 4096, 
 "height": 4096 
-}, 
-"S3_7": { 
-"name": "S3_7.png", 
+},
+"Sector 3": { 
+"name": "Sector 3.png", 
 "x": -4096, 
 "y": 0, 
 "width": 4096, 
 "height": 4096 
-}, 
-"S4_5": { 
-"name": "S4_5.png", 
+},
+"Sector 4 1": { 
+"name": "Sector 4.png", 
 "x": 0, 
 "y": 0, 
 "width": 4096, 
 "height": 4096 
 },
-"grid": { 
-"name": "grid.png", 
+"Grid 1": { 
+"name": "Grid 1.png", 
 "x": -4096, 
 "y": -4096, 
-"width": 8192, 
-"height": 8192, 
+"width": 4096, 
+"height": 4096, 
 "type": "grid" 
-}  
+},
+"Grid 2": { 
+"name": "Grid 2.png", 
+"x": 0, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096, 
+"type": "grid" 
+},
+"Grid 3": { 
+"name": "Grid 3.png", 
+"x": -4096, 
+"y": 0, 
+"width": 4096, 
+"height": 4096, 
+"type": "grid" 
+},
+"Grid 4": { 
+"name": "Grid 4.png", 
+"x": 0, 
+"y": 0, 
+"width": 4096, 
+"height": 4096, 
+"type": "grid" 
+}
 }
