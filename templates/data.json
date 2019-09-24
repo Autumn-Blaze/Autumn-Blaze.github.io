@@ -27,26 +27,10 @@
 "width": 4096, 
 "height": 4096 
 },
-"Grid_1": { 
-"name": "Grid_1.png", 
-"x": -4096, 
-"y": -4096, 
-"width": 4096, 
-"height": 4096, 
-"type": "grid" 
-},
 "Grid_2": { 
 "name": "Grid_2.png", 
 "x": 0, 
 "y": -4096, 
-"width": 4096, 
-"height": 4096, 
-"type": "grid" 
-},
-"Grid_3": { 
-"name": "Grid_3.png", 
-"x": -4096, 
-"y": 0, 
 "width": 4096, 
 "height": 4096, 
 "type": "grid" 
