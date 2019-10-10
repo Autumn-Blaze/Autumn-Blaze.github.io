@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.2.7
+// @version      1.2.8
 // @description  My Little Pony Pixel (MLP Pixel) Minimap for PixelZone.io
 // @author       ConsoleBey and Endless Night
 // @include      *://pixelzone.io/*
 // @include      *://pixel.vkforms.ru/*
+// @include      *://vk.com/pixelbattle*
 // @homepage     https://Autumn-Blaze.github.io
 // @updateURL    https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
 // @downloadURL  https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
