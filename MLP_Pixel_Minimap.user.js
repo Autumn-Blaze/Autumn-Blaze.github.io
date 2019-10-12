@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.2.8
+// @version      1.2.9
 // @description  My Little Pony Pixel (MLP Pixel) Minimap
 // @author       Endless Night (and ConsoleBey)
 // @include      *://pixelzone.io/*
@@ -18,7 +18,7 @@
 console.log("Run mlpp_minimap.exe");
 (()=>{
 	let a = {
-			'pixel2019.vkforms.ru' : 'https://newlunarrepublicen.000webhostapp.com/files/MLPP_PB_Minimap.js',
+			'pixel2019.vkforms.ru' : 'https://endlessnightnlr.github.io/master/MLPP/pb/who.js',
 			'pixelzone.io' : 'https://Autumn-Blaze.github.io/Son.js'
 //			'pixelzone.io' : 'https://Autumn-Blaze.github.io/MLPP_Minimap.user.js'
 		},
