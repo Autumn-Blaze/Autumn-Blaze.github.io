@@ -2,7 +2,7 @@
 "Event": { 
 "name": "Event.png", 
 "x": 2048, 
-"y": -2048, 
+"y": -1024, 
 "width": 2048, 
 "height": 2048 
 }
