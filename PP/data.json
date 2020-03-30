@@ -1,9 +1,17 @@
 {
-"sosi": { 
-"name": "sosi.png", 
-"x": -21310, 
-"y": -940, 
-"width": 80, 
-"height": 80 
+"PBart": { 
+"name": "PBart.png", 
+"x": -18100, 
+"y": -2800, 
+"width": 134, 
+"height": 227 
+},
+"PBart": { 
+"name": "PBart_grid.png", 
+"x": -18100, 
+"y": -2800, 
+"width": 134, 
+"height": 227 ?
+"type": "grid" 
 }
 }
