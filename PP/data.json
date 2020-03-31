@@ -6,6 +6,13 @@
 "width": 134, 
 "height": 227 
 },
+"S_3-7": { 
+"name": "S_3-7.png", 
+"x": -20480, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096 
+},
 "PBart_grid": { 
 "name": "PBart_grid.png", 
 "x": -18100, 
