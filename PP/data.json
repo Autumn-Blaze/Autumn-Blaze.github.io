@@ -1,11 +1,4 @@
 {
-"PBart": { 
-"name": "PBart.png", 
-"x": -18100, 
-"y": -2840, 
-"width": 134, 
-"height": 227 
-},
 "S_3-7": { 
 "name": "S_3-7.png", 
 "x": -20480, 
@@ -13,8 +6,8 @@
 "width": 4096, 
 "height": 4096 
 },
-"PBart_grid": { 
-"name": "PBart_grid.png", 
+"S_3-7_grid": { 
+"name": "S_3-7_grid.png", 
 "x": -18100, 
 "y": -2840, 
 "width": 134, 
