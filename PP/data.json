@@ -14,11 +14,11 @@
 "height": 227,
 "type": "grid" 
 },
-"Main" : {
-"name": "Main.png", 
-"x": -21450,
-"y": -874,
-"width": 540,
-"height": 527
+"S_2-7": { 
+"name": "S_2-7.png", 
+"x": -24576, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096 
 }  
 }
