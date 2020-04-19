@@ -13,5 +13,12 @@
 "width": 134, 
 "height": 227,
 "type": "grid" 
-}
+},
+"Main" : {
+"name": "Main.png", 
+"x": -21450,
+"y": -874,
+"width": 540,
+"height": 527
+}  
 }
