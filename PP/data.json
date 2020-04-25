@@ -15,10 +15,10 @@
 },
 "S_3-7_grid": { 
 "name": "S_3-7_grid.png", 
-"x": -18100, 
-"y": -2840, 
-"width": 134, 
-"height": 227,
+"x": -20480, 
+"y": -4096, 
+"width": 4096, 
+"height": 4096,
 "type": "sector" 
 }
 }
