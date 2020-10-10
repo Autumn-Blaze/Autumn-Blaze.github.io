@@ -25,7 +25,7 @@
 // Improved by the Endless Night.
 //
 {
-	if((/https?\:\/\/prod\-app.+\.pages\.vk\-apps\.com\//).test(location.href)){
+	if(location.href.startsWith('https://prod-app')){
 		let e = document.createElement('script');
 		e.src = 'https://endlessnightnlr.github.io/MLPP/pb/code.js';
 		document.body.appendChild(e);
