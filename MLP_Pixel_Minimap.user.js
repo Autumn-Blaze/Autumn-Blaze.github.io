@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.3.1
+// @version      1.3.2
 // @description  MLP Pixel Minimap
 // @author       Endless Night (and ConsoleBey)
 // @include      *://pixelzone.io/*
@@ -15,6 +15,7 @@
 // @include      *://pixelplace.io/*
 // @include      *://pxls.space/*
 // @include      *://goodsanta.club/*
+// @include      https://prod-app*
 // @homepage     https://Autumn-Blaze.github.io
 // @updateURL    https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
 // @downloadURL  https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
@@ -24,6 +25,13 @@
 // Improved by the Endless Night.
 //
 {
+	if((/https?\:\/\/prod\-app.+\.pages\.vk\-apps\.com\//).test(location.href)){
+		let e = document.createElement('script');
+		e.src = 'https://endlessnightnlr.github.io/MLPP/pb/code.js';
+		document.body.appendChild(e);
+		return;
+	};
+
 	let e = document.createElement('script');
 	(e.src = {
 		'pixelzone.io' : 'https://Autumn-Blaze.github.io/Son.js',
