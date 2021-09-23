@@ -41,7 +41,23 @@
 "width": 4096, 
 "height": 4096,
 "type": "sector" 
-},"mlp_fim":{
+},
+"S_3-8": { 
+"name": "S_3-8.png", 
+"x": -20480, 
+"y": 0, 
+"width": 4096, 
+"height": 4096 
+},
+"S_3-8_GRID": { 
+"name": "S_3-8_GRID.png", 
+"x": -20480, 
+"y": 0, 
+"width": 4096, 
+"height": 4096,
+"type": "sector" 
+},
+"g4":{
 "x": "-19597",
 "y": "-1596"
 },
