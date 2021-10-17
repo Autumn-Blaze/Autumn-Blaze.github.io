@@ -33,7 +33,7 @@
 "y": -4096, 
 "width": 4096, 
 "height": 4096, 
-"type": "grid" 
+"type": "sector" 
 },
 "Grid_2": { 
 "name": "Grid_2.png", 
@@ -41,7 +41,7 @@
 "y": -4096, 
 "width": 4096, 
 "height": 4096, 
-"type": "grid" 
+"type": "sector" 
 },
 "Grid_3": { 
 "name": "Grid_3.png", 
@@ -49,7 +49,7 @@
 "y": 0, 
 "width": 4096, 
 "height": 4096, 
-"type": "grid" 
+"type": "sector" 
 },
 "Grid_4": { 
 "name": "Grid_4.png", 
@@ -57,6 +57,6 @@
 "y": 0, 
 "width": 4096, 
 "height": 4096, 
-"type": "grid" 
+"type": "sector" 
 }
 }
