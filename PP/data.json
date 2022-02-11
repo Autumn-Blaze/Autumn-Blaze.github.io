@@ -34,6 +34,20 @@
 "width": 4096, 
 "height": 4096 
 },
+"S_3-8": { 
+"name": "S_3-8.png", 
+"x": -20480, 
+"y": 0, 
+"width": 4096, 
+"height": 4096 
+},
+"S_4-8": { 
+"name": "S_4-8.png", 
+"x": -16384, 
+"y": 0, 
+"width": 4096, 
+"height": 4096 
+},
 "S_3-7_GRID": { 
 "name": "S_3-7_GRID.png", 
 "x": -20480, 
@@ -41,13 +55,6 @@
 "width": 4096, 
 "height": 4096,
 "type": "sector" 
-},
-"S_3-8": { 
-"name": "S_3-8.png", 
-"x": -20480, 
-"y": 0, 
-"width": 4096, 
-"height": 4096 
 },
 "S_3-8_GRID": { 
 "name": "S_3-8_GRID.png", 
