@@ -15,6 +15,7 @@
 // @include      *://pixelplace.io/*
 // @include      *://pxls.space/*
 // @include      *://goodsanta.club/*
+// @include      *://www.reddit.com/r/place/*
 // @include      https://prod-app*
 // @include      https://pixelwar-mts.ru/*
 // @homepage     https://Autumn-Blaze.github.io
