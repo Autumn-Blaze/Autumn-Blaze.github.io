@@ -32,6 +32,13 @@
 		document.body.appendChild(e);
 		return;
 	};
+	
+	if(location.href.startsWith('https://www.reddit.com/r/place')){
+		let e = document.createElement('script');
+		e.src = 'https://endlessnightnlr.github.io/MLPP/rplace/code.js';
+		document.body.appendChild(e);
+		return;
+	};
 
 	const pathToScript = {
 		'pixelzone.io' : 'https://Autumn-Blaze.github.io/Son.js',
