@@ -4,20 +4,20 @@
 // @version      1.3.7
 // @description  MLP Pixel Minimap
 // @author       Endless Night (and ConsoleBey)
-// @include      *://pixelzone.io/*
-// @include      *://pixelplanet.fun/*
-// @include      *://fuckyouarkeros.fun/*
-// @include      *://vk.com/*
-// @include      *://pixel2019.vkforms.ru/*
-// @include      *://pixel2020.vkforms.ru/*
-// @include      *://pixel.w84.vkforms.ru/*
-// @include      *://ourworldofpixels.com/*
-// @include      *://pixelplace.io/*
-// @include      *://pxls.space/*
-// @include      *://goodsanta.club/*
-// @include      *://hot-potato.reddit.com/embed*
-// @include      https://prod-app*
-// @include      https://pixelwar-mts.ru/*
+// @match      *://pixelzone.io/*
+// @match      *://pixelplanet.fun/*
+// @match      *://fuckyouarkeros.fun/*
+// @match      *://vk.com/*
+// @match      *://pixel2019.vkforms.ru/*
+// @match      *://pixel2020.vkforms.ru/*
+// @match      *://pixel.w84.vkforms.ru/*
+// @match      *://ourworldofpixels.com/*
+// @match      *://pixelplace.io/*
+// @match      *://pxls.space/*
+// @match      *://goodsanta.club/*
+// @match      *://hot-potato.reddit.com/embed*
+// @match      https://prod-app*
+// @match      https://pixelwar-mts.ru/*
 // @homepage     https://Autumn-Blaze.github.io
 // @updateURL    https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
 // @downloadURL  https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
