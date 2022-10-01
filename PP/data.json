@@ -100,17 +100,17 @@
 },
 "Mdagascar_d": { 
 "name": "Mdagascar_d.png", 
-"x": 8108, 
-"y": 2169
+"x": "8108", 
+"y": "2169"
 },
 "north_d": { 
 "name": "north_d.png", 
-"x": 890, 
-"y": -14978
+"x": "890", 
+"y": "-14978"
 },
 "Twilight_d": { 
 "name": "Twilight_d.png", 
-"x": 9448, 
-"y": -13017
+"x": "9448", 
+"y": "-13017"
 }
 }
