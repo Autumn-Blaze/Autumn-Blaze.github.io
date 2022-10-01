@@ -83,21 +83,21 @@
 "x": 8108,
 "y": 2169,
 "width": 1354, 
-"height": 1405,
+"height": 1405
 },
 "north_d": {
 "name": "north_d.png",
 "x": 890,
 "y": -14978,
 "width": 228, 
-"height": 680,
+"height": 680
 },
 "Twilight_d": {
 "name": "Twilight_d.png",
 "x": 9448,
 "y": -13017,
 "width": 49, 
-"height": 35,
+"height": 35
 },
 "g4":{
 "x": "-19598",
