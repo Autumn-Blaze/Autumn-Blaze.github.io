@@ -101,13 +101,19 @@
 "Mdagascar_d": {
 "x": "8108",
 "y": "2169"
+"width": 1354, 
+"height": 1405,
 },
 "north_d": {
 "x": "890",
 "y": "-14978"
+"width": 228, 
+"height": 680,
 },
 "Twilight_d": {
 "x": "9448",
 "y": "-13017"
+"width": 49, 
+"height": 35,
 }
 }
