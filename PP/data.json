@@ -78,32 +78,32 @@
 "height": 4096,
 "type": "sector" 
 },
-"mdagascar_d":{ 
+"mdagascar_d": { 
 "name": "mdagascar_d.png",
 "x": 8108,
 "y": 2169,
 "width": 4096, 
 "height": 4096
 },
-"north_d":{ 
+"north_d": { 
 "name": "north_d.png",
 "x": 890,
 "y": -14978,
 "width": 4096, 
 "height": 4096
 },
-"twilight_d":{ 
+"twilight_d": { 
 "name": "twilight_d.png",
 "x": 9448,
 "y": -13017,
 "width": 4096, 
 "height": 4096
 },
-"g4":{
+"g4": {
 "x": "-19598",
 "y": "-1597"
 },
-"tesfact":{
+"tesfact": {
 "x": "30795",
 "y": "31368"
 },
