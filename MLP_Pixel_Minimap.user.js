@@ -54,6 +54,7 @@
 	// 'pixelwar-mts.ru': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/MLPP/MTS%202021/code.js'
 ].forEach(([reg, src]) => {
 	if (new RegExp(reg).test(location.href)) {
+		console.log(`trigger "${reg}"\nload code from "${src}"`);
 		fetch(src)
 		.then(res => {
 			if (res.readyState !== res.DONE) {
