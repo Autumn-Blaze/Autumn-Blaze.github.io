@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.3.8
+// @version      1.3.9
 // @description  MLP Pixel Minimap
 // @author       Endless Night (and ConsoleBey)
 // @grant 		 GM_xmlhttpRequest
@@ -16,8 +16,8 @@
 // @connect		 pixelplanet.fun
 // @connect		 fuckyouarkeros.fun
 // @match      *://pixelzone.io/*
-// @match      *://pixelplanet.fun/*
-// @match      *://fuckyouarkeros.fun/*
+// @match      *://*.pixelplanet.fun/*
+// @match      *://*.fuckyouarkeros.fun/*
 // @match      *://vk.com/*
 // @match      *://pixel2019.vkforms.ru/*
 // @match      *://pixel2020.vkforms.ru/*
@@ -42,8 +42,8 @@
 	// ['https://prod-app*', 'https://endlessnightnlr.github.io/MLPP/pb/code.js'],
 	// ['https://hot-potato.reddit.com/embed*', 'https://endlessnightnlr.github.io/MLPP/rplace/code2.js'],
 	['.*:\/\/pixelzone\.io.*', 'https://Autumn-Blaze.github.io/Son.js'],
-	['.*:\/\/pixelplanet\.fun.*', 'https://endlessnightnlr.github.io/MLPP/PixelPlanet/code.js'],
-	['.*:\/\/fuckyouarkeros\.fun.*', 'https://endlessnightnlr.github.io/MLPP/PixelPlanet/code.js'],
+	['.*:\/\/.*pixelplanet\.fun.*', 'https://endlessnightnlr.github.io/MLPP/PixelPlanet/code.js'],
+	['.*:\/\/.*fuckyouarkeros\.fun.*', 'https://endlessnightnlr.github.io/MLPP/PixelPlanet/code.js'],
 	// 'pixel2019.vkforms.ru' : 'https://endlessnightnlr.github.io/MLPP/pb/code.js',
 	// 'pixel2020.vkforms.ru' : 'https://endlessnightnlr.github.io/MLPP/pb/code.js',
 	// 'pixel.w84.vkforms.ru' : 'https://endlessnightnlr.github.io/MLPP/pb/code.js',
