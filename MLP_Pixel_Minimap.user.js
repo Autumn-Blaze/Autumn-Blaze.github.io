@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MLP Pixel Minimap
 // @namespace    http://tampermonkey.net/
-// @version      1.3.9
+// @version      1.3.10
 // @description  MLP Pixel Minimap
 // @author       Endless Night (and ConsoleBey)
 // @grant 		 GM_xmlhttpRequest
@@ -16,8 +16,8 @@
 // @connect		 pixelplanet.fun
 // @connect		 fuckyouarkeros.fun
 // @match      *://pixelzone.io/*
-// @match      *://*.pixelplanet.fun/*
-// @match      *://*.fuckyouarkeros.fun/*
+// @match      *://*.pixelplanet.fun*
+// @match      *://*.fuckyouarkeros.fun*
 // @match      *://vk.com/*
 // @match      *://pixel2019.vkforms.ru/*
 // @match      *://pixel2020.vkforms.ru/*
