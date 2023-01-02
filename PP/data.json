@@ -78,8 +78,8 @@
 "height": 4096,
 "type": "sector" 
 },
-"Mdagascar_d": { 
-"name": "Mdagascar_d.png",
+"mdagascar_d": { 
+"name": "mdagascar_d.png",
 "x": 8108,
 "y": 2169,
 "width": 4096, 
@@ -87,15 +87,29 @@
 },
 "north_d": { 
 "name": "north_d.png",
-"x": 890,
+"x": 860,
 "y": -14978,
 "width": 4096, 
 "height": 4096
 },
-"Twilight": { 
-"name": "Twilight.png",
+"twilight": { 
+"name": "twilight.png",
 "x": 9448,
 "y": -13017,
+"width": 4096, 
+"height": 4096
+},
+"res": { 
+"name": "res.png",
+"x": -3108,
+"y": -4208,
+"width": 4096, 
+"height": 4096
+},
+"dr": { 
+"name": "dr.png",
+"x": -15,
+"y": -289,
 "width": 4096, 
 "height": 4096
 },
