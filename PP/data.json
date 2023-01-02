@@ -78,8 +78,8 @@
 "height": 4096,
 "type": "sector" 
 },
-"mdagascar_d": { 
-"name": "mdagascar_d.png",
+"Mdagascar_d": { 
+"name": "Mdagascar_d.png",
 "x": 8108,
 "y": 2169,
 "width": 4096, 
@@ -92,8 +92,8 @@
 "width": 4096, 
 "height": 4096
 },
-"twilight_d": { 
-"name": "twilight_d.png",
+"Twilight": { 
+"name": "Twilight.png",
 "x": 9448,
 "y": -13017,
 "width": 4096, 
