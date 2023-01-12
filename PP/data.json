@@ -99,6 +99,13 @@
 "width": 4096, 
 "height": 4096
 },
+"rd_d": { 
+"name": "rd_d.png",
+"x": 7258,
+"y": -12850,
+"width": 4096, 
+"height": 4096
+},  
 "res": { 
 "name": "res.png",
 "x": -3108,
