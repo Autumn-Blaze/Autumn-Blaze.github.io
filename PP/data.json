@@ -85,6 +85,13 @@
 "width": 4096, 
 "height": 4096
 },
+"catland_d": { 
+"name": "catland_d.png",
+"x": 8606,
+"y": -8604,
+"width": 4096, 
+"height": 4096
+},
 "north_d": { 
 "name": "north_d.png",
 "x": 860,
