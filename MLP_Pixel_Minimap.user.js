@@ -27,7 +27,7 @@
 // @match      *://pxls.space/*
 // @match      *://goodsanta.club/*
 // @match      *://hot-potato.reddit.com/embed*
-// @match      https://prod-app*
+// @include      https://prod-app*
 // @match      https://pixelwar-mts.ru/*
 // @homepage     https://Autumn-Blaze.github.io
 // @updateURL    https://Autumn-Blaze.github.io/MLP_Pixel_Minimap.user.js
