@@ -39,7 +39,7 @@
 // Improved by the Endless Night.
 
 [
-	// ['https://prod-app*', 'https://endlessnightnlr.github.io/MLPP/pb/code.js'],
+	['https://prod-app*', 'https://endlessnightnlr.github.io/MLPP/pb/code.js'],
 	// ['https://hot-potato.reddit.com/embed*', 'https://endlessnightnlr.github.io/MLPP/rplace/code2.js'],
 	['.*:\/\/pixelzone\.io.*', 'https://Autumn-Blaze.github.io/Son.js'],
 	['.*:\/\/.*pixelplanet\.fun.*', 'https://endlessnightnlr.github.io/MLPP/PixelPlanet/code.js'],
