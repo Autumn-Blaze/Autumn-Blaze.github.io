@@ -41,27 +41,6 @@
 "width": 4096, 
 "height": 4096 
 },
-"S_4-8": { 
-"name": "S_4-8.png", 
-"x": -16384, 
-"y": 0, 
-"width": 4096, 
-"height": 4096 
-},
-"S_E-2": { 
-"name": "S_E-2.png", 
-"x": 24576, 
-"y": -24576, 
-"width": 4096, 
-"height": 4096 
-},
-"S_E-3": { 
-"name": "S_E-3.png", 
-"x": 24576, 
-"y": -20480, 
-"width": 4096, 
-"height": 4096 
-},
 "S_3-7_GRID": { 
 "name": "S_3-7_GRID.png", 
 "x": -20480, 
@@ -77,6 +56,13 @@
 "width": 4096, 
 "height": 4096,
 "type": "sector" 
+},
+"Void_ponyo_d": { 
+"name": "Void_ponyo_d.png",
+"x": -27608,
+"y": -29254,
+"width": 214, 
+"height": 278
 },
 "mdagascar_d": { 
 "name": "mdagascar_d.png",
